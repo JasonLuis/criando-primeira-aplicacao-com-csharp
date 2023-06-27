@@ -1,0 +1,2 @@
+dotnet new console -> cria um projeto C# na pasta
+dotnet run Program.cs -> executa o arquivo Program.cs
